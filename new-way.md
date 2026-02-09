@@ -153,7 +153,7 @@ No current solution properly handles the full testing stack that modern applicat
 
 There are two types of companies in the market:
 
-**Type 1: New projects without test automation **
+**Type 1: New projects without test automation**
 - These companies can use existing AI tools
 - They have no legacy code to worry about
 - They're happy to adopt a new platform
